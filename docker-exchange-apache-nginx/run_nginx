@@ -1,0 +1,1 @@
+docker run -d -p 81:80 apache-nginx-sample /usr/sbin/nginx -g "daemon off;"

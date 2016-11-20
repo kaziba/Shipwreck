@@ -1,0 +1,3 @@
+docker run -d --name web-container \
+  -p 12000:80 \
+  --volumes-from log-container web-image \

@@ -1,0 +1,1 @@
+<a href="https://github.com/yoshiso/docker-mecab-ipadic-neologd" target="_blank">yoshiso/docker-mecab-ipadic-neologd</a>
